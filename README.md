@@ -1,0 +1,2 @@
+# CalHacks
+Repository for CalHacks 
